@@ -7,3 +7,5 @@ public void sayhi(){}
 
 public void play(){}
 
+public void hello(){}
+
